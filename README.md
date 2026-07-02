@@ -265,4 +265,4 @@ More help: https://docs.apify.com/platform/integrations/mcp
 
 *Use the Google Shopping Lite API to power your price monitoring and product research with reliable, structured results.*
 
-Last Updated: 2026.07.01
+Last Updated: 2026.07.02
